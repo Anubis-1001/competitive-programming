@@ -1,0 +1,2 @@
+def minDistance(houses, k):
+
